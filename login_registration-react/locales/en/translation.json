@@ -1,0 +1,32 @@
+{
+    "headerTitle": "DXC Login Application",
+    "loginIntro": "This is not a real online service! You know you need something like this in your life to help you realise your deepest dreams. Sign up now to get started.\n\nYou know you want to.",
+    "registerIntro": "This is not a real online service! You know you need something like this in your life to help you realise your deepest dreams. Sign up now to get started.\n\nYou know you want to.",
+    "welcome": "Welcome",
+    "name": "NAME",
+    "userName": "USERNAME",
+    "email": "EMAIL",
+    "usernameOrEmail": "USERNAME OR EMAIL",
+    "password": "PASSWORD",
+    "confirmPassword": "CONFIRM PASSWORD",
+    "login": "Login",
+    "register": "Register",
+    "createAccount": "Create Account",
+    "logout": "logout",
+    "haveAnAccount": "Already have an account?",
+
+    "enterName":"*Please enter your name.",
+    "enterUsername":"*Please enter your username.",
+    "enterUsernameOrEmail": "*Please enter your username or email.",
+    "enterEmail":"*Please enter your email.",
+    "enterPassword": "*Please enter your password.",
+    "enterConfirmPassword": "*Please enter your confirm password.",
+    "enterPasswordNotMatched": "*Password Not Matched",
+
+    "loginErrorMsg": "Unable to login, Username or Password incorrect",
+
+    "registerUnsuccessfulMsg": "Username or Email already exists!",
+    "registerSuccessfulMsg": "User Registered Successfully!.",
+
+    "manager": "Manager"
+}

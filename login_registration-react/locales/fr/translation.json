@@ -1,0 +1,34 @@
+{
+    "headerTitle": "Application de connexion DXC",
+    "loginIntro": "Ce n'est pas un vrai service en ligne ! Vous savez que vous avez besoin de quelque chose comme ça dans votre vie pour vous aider à réaliser vos rêves les plus profonds. Inscrivez-vous maintenant pour commencer.\n\nTu sais que tu le veux.",
+    "registerIntro": "Ce n'est pas un vrai service en ligne ! Vous savez que vous avez besoin de quelque chose comme ça dans votre vie pour vous aider à réaliser vos rêves les plus profonds. Inscrivez-vous maintenant pour commencer.\n\nTu sais que tu le veux.",
+    "welcome": "Bienvenue",
+    "name": "NOM",
+    "userName": "NOM D'UTILISATEUR",
+    "email": "E-MAIL",
+    "usernameOrEmail": "NOM D'UTILISATEUR OU E-MAIL",
+    "password": "MOT DE PASSE",
+    "confirmPassword": "CONFIRMER LE MOT DE PASSE",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "createAccount": "Créer un compte",
+    "logout": "Déconnexion",
+    "haveAnAccount": "Vous avez déjà un compte?",
+
+    "enterName": "*Veuillez entrer votre nom.",
+    "enterUsername": "*Veuillez entrer votre nom d'utilisateur.",
+    "enterUsernameOrEmail": "*Veuillez entrer votre nom d'utilisateur ou votre adresse e-mail.",
+    "enterEmail": "*Veuillez entrer votre adresse e-mail.",
+    "enterPassword": "*Veuillez entrer votre mot de passe.",
+    "enterConfirmPassword": "*Veuillez entrer votre mot de passe de confirmation.",
+    "enterPasswordNotMatched": "*Mot de passe non correspondant",
+
+    "loginErrorMsg": "Impossible de se connecter, Nom d'utilisateur ou Mot de passe incorrect",
+
+    "registerUnsuccessfulMsg": "Le nom d'utilisateur ou l'e-mail existe déjà !",
+    "registerSuccessfulMsg": "Utilisateur enregistré avec succès !",
+
+    "manager": "Gérant"
+
+
+}
